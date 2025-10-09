@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Magus 
         image:
           type: Image
           url: /images/nextjs.svg
@@ -46,7 +46,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Priestess 
         image:
           type: Image
           url: /images/mui-5.svg
@@ -61,7 +61,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Empress
         image:
           type: Image
           url: /images/ts.svg
