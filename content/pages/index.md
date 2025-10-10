@@ -36,7 +36,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
+        text: 
         The magus card number one of the major arcana 
         actions:
           - type: Button
